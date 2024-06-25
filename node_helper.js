@@ -1,6 +1,6 @@
 var NodeHelper = require("node_helper");
 var fs = require('fs');
-var parse = require("csv-parse");
+const { parse } = require('csv-parse');
 var moment = require("moment");
 
 
