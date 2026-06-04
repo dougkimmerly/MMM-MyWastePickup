@@ -2,7 +2,7 @@
 
 **Address:** 55 Tenth Street, South Etobicoke  
 **District:** 1  
-**Schedule:** Wednesday 1  
+**Schedule:** Wednesday2  
 
 ---
 
@@ -49,7 +49,7 @@ python toronto_garbage_json.py --all
 Example output:
 ```json
 {
-  "calendar": "Wednesday 1",
+  "calendar": "Wednesday2",
   "next_collection_date": "2026-01-07",
   "days_until": 1,
   "collection_tomorrow": true,

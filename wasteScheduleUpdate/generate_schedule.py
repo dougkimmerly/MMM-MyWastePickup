@@ -13,10 +13,10 @@ Usage:
     python generate_schedule.py --write            # Write to schedule_custom.csv
     python generate_schedule.py --years 2025 2026  # Specific years
     python generate_schedule.py --extend 2030     # Extend schedule through 2030
-    python generate_schedule.py --calendar "Wednesday 1"  # Override calendar
+    python generate_schedule.py --calendar "Wednesday2"  # Override calendar
 
 For: 55 Tenth Street, South Etobicoke
-Calendar: Wednesday 1
+Calendar: Wednesday2
 """
 
 import csv
@@ -27,7 +27,7 @@ from pathlib import Path
 import argparse
 
 # Configuration
-DEFAULT_CALENDAR = "Wednesday1"  # No space in Toronto's format
+DEFAULT_CALENDAR = "Wednesday2"  # No space in Toronto's format
 OUTPUT_FILE = Path(__file__).parent.parent / "schedule_custom.csv"
 
 # Toronto Open Data CSV URLs - update these when Toronto changes them

@@ -25,7 +25,7 @@ import argparse
 # ============================================================
 # After checking toronto.ca or the TOwaste app with your address,
 # set this to either "Wednesday 1" or "Wednesday 2"
-CALENDAR = "Wednesday 1"  # 55 Tenth Street, South Etobicoke
+CALENDAR = "Wednesday2"  # 55 Tenth Street, South Etobicoke
 # ============================================================
 
 # Toronto Open Data API

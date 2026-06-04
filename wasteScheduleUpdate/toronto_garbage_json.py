@@ -26,7 +26,7 @@ from pathlib import Path
 # ============================================================
 # CONFIGURATION
 # ============================================================
-CALENDAR = "Wednesday 1"  # 55 Tenth Street, South Etobicoke
+CALENDAR = "Wednesday2"  # 55 Tenth Street, South Etobicoke
 ADDRESS = "55 Tenth Street, South Etobicoke"
 # ============================================================
 
